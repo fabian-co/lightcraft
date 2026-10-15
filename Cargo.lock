@@ -3448,7 +3448,7 @@ dependencies = [
 
 [[package]]
 name = "lightcraft-relief"
-version = "0.7.1"
+version = "0.8.0"
 dependencies = [
  "candle-core",
  "candle-nn",
